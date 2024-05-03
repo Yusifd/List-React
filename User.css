@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    gap: 5px;
+}
+ul li{
+    border: 2px solid black;
+    border-radius: 5px; 
+    background-color: yellowgreen;
+    font-weight: 700;
+}
